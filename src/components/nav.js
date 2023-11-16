@@ -173,8 +173,8 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="5" target="_blank" rel="noopener noreferrer">
-      Resume
+    <a className="resume-button" href="https://loicbch.github.io/blog/" target="_blank" rel="noopener noreferrer">
+      Blog
     </a>
   );
 
