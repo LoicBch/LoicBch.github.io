@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Android developer'
 company: 'Nostrum care'
 location: 'Genas, FR'
-range: 'February 2018 - July 2018'
+range: 'February 2022 -  September 2023'
 url: 'https://www.nostrumcare.fr/'
 ---
 
